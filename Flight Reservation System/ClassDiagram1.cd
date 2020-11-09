@@ -1,30 +1,33 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
-  <Class Name="Flight_Reservation_System.Admin_Login_Form" Collapsed="true">
-    <Position X="10.5" Y="3.75" Width="1.5" />
+  <Class Name="Flight_Reservation_System.Admin_Login_Form">
+    <Position X="15.5" Y="0.5" Width="1.75" />
     <TypeIdentifier>
       <HashCode>AAEAAAAgICAAAQAIAACAAAACAEAABAABAAAAAAACAAA=</HashCode>
       <FileName>Admin_Login_Form.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="Flight_Reservation_System.Admin_Panel_Form" Collapsed="true">
-    <Position X="8.75" Y="0.75" Width="1.5" />
+  <Class Name="Flight_Reservation_System.Admin_Panel_Form">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
     <TypeIdentifier>
-      <HashCode>AQqAAAAk4CFQAQAAAACMCAAigMAgADABACAEAAQAIBA=</HashCode>
+      <HashCode>AQqAAAAk4CFQAQAAAACICAAigMAgBDABACAEAAQAIBA=</HashCode>
       <FileName>Admin_Panel_Form.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="Flight_Reservation_System.Customer_Login_Form" Collapsed="true">
-    <Position X="8.75" Y="1.75" Width="1.5" />
+  <Class Name="Flight_Reservation_System.Customer_Login_Form">
+    <Position X="12" Y="0.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAACUAAgACAAAUAAAACAAAACAEAAAAABAAAAAAAgAAA=</HashCode>
+      <HashCode>AAACUAAgACAAAUAAAACAAAACAEAAAAABAAAAAAAgAAI=</HashCode>
       <FileName>Customer_Login_Form.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="Flight_Reservation_System.Customer_Register_Form" Collapsed="true">
-    <Position X="10.5" Y="1.75" Width="1.5" />
+  <Class Name="Flight_Reservation_System.Customer_Register_Form">
+    <Position X="17.5" Y="0.5" Width="2" />
     <TypeIdentifier>
-      <HashCode>CIAhCgiAACAAAAAAAACAEEACABACAgBAAAQQAAAAQAY=</HashCode>
+      <HashCode>CAAhCgjAACAAAAAAAACAEEACABgiAgBAAAQQAAAAQAY=</HashCode>
       <FileName>Customer_Register_Form.cs</FileName>
     </TypeIdentifier>
   </Class>
@@ -35,22 +38,22 @@
       <FileName>Flight.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="Flight_Reservation_System.Flight_Search_Form" Collapsed="true">
-    <Position X="8.75" Y="4.75" Width="1.5" />
+  <Class Name="Flight_Reservation_System.Flight_Search_Form">
+    <Position X="13.75" Y="0.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AQgCAAiEACAQAIAAAACAAAACABAAACAAEAAQQAAANIA=</HashCode>
+      <HashCode>AQgCAAiEQCAQAIAAAACAAAACABAAACAAEAAQQAAANIA=</HashCode>
       <FileName>Flight_Search_Form.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="Flight_Reservation_System.Main_Login_Form" Collapsed="true">
-    <Position X="8.75" Y="2.75" Width="1.5" />
+  <Class Name="Flight_Reservation_System.Main_Login_Form">
+    <Position X="15.75" Y="4.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAACAAAAAAAgSIABACAAAACAAAAEAAAAEAAAA=</HashCode>
       <FileName>Main_Login_Form.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Flight_Reservation_System.Program" Collapsed="true">
-    <Position X="10.5" Y="2.75" Width="1.5" />
+    <Position X="8.25" Y="4.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
       <FileName>Program.cs</FileName>
@@ -71,13 +74,13 @@
     </TypeIdentifier>
   </Class>
   <Class Name="Flight_Reservation_System.Properties.Resources" Collapsed="true">
-    <Position X="8.75" Y="3.75" Width="1.5" />
+    <Position X="7.75" Y="3.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
     </TypeIdentifier>
   </Class>
   <Class Name="Flight_Reservation_System.Properties.Settings" Collapsed="true">
-    <Position X="10.5" Y="4.75" Width="1.5" />
+    <Position X="8.25" Y="5.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
     </TypeIdentifier>
